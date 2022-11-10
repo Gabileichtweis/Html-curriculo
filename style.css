@@ -1,0 +1,11 @@
+.header {
+    margin-top: 15px;
+    color: aliceblue;
+}
+
+.title-articles {
+    background-color: rgba(121, 31, 121, 0.741);
+    padding-left: 45px;
+    color: aliceblue;
+    background-size: cover;
+}
